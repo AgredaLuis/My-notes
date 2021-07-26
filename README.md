@@ -2,7 +2,7 @@
 
 ###Tables
                     
-First Header  | Second Header
+Animes Vistos  | Temporadas
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell 
