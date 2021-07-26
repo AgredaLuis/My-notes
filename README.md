@@ -4,8 +4,11 @@
                     
 Animes Vistos  | Temporadas
 ------------- | -------------
+One Piece   |   up to date
+Bungo stray Dogs  | I,II, III
 Content Cell  | Content Cell
-Content Cell  | Content Cell 
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 
 #H1 header
