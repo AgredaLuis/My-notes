@@ -6,7 +6,7 @@ Animes Vistos  | Temporadas
 ------------- | -------------
 One Piece   |   up to date
 Bungo stray Dogs  | I,II, III
-Content Cell  | Content Cell
+Cowboy bebop  | I
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
