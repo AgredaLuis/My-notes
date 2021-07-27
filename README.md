@@ -1,5 +1,6 @@
 # My-notes
 
+
 ###Tables
                     
 Animes Vistos  | Temporadas
@@ -7,6 +8,10 @@ Animes Vistos  | Temporadas
 One Piece   |   up to date
 Bungo stray Dogs  | I,II, III
 Cowboy bebop  | I
+Class room of elite  | I
+Bunny Girl Senpai   | I, Movie
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
