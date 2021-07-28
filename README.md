@@ -10,9 +10,9 @@ Bungo stray Dogs  | I,II, III
 Cowboy bebop  | I
 Class room of elite  | I
 Bunny Girl Senpai   | I, Movie
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Dororo  | I
+Parasyte  | I
+Jujutsu Kaisen  | I
 Content Cell  | Content Cell
 
 
