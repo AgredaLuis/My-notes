@@ -13,7 +13,7 @@ Bunny Girl Senpai   | I, Movie
 Dororo  | I
 Parasyte  | I
 Jujutsu Kaisen  | I
-Content Cell  | Content Cell
+Castlevania | I,II,III,IV
 
 
 #H1 header
