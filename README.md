@@ -14,6 +14,11 @@ Dororo  | I
 Parasyte  | I
 Jujutsu Kaisen  | I
 Castlevania | I,II,III,IV
+Another  | I
+Shigatsu wa kimi no uso  | I
+Puella Magi Madoka magica  | I + movie
+
+
 
 
 #H1 header
